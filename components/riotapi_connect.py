@@ -58,3 +58,10 @@ for jogo in jogos:
                     print("")
                     confronto = 0
                     time_venceu = ""
+
+# https://andydanger.github.io/live-lol-esports/#/
+# https://github.com/AndyDanger/live-lol-esports/blob/main/src/utils/LoLEsportsAPI.ts
+# https://github.com/vickz84259/lolesports-api-docs/tree/master
+# https://vickz84259.github.io/lolesports-api-docs/#tag/leagues
+# https://github.com/pedroherpeto/whatsapp-api
+# https://github.com/chrishubert/whatsapp-api
