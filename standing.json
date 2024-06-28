@@ -1,0 +1,2944 @@
+{
+    "data": {
+        "standings": [
+            {
+                "stages": [
+                    {
+                        "name": "Etapa Regular",
+                        "type": null,
+                        "slug": "regular_season",
+                        "sections": [
+                            {
+                                "name": "Etapa Regular",
+                                "matches": [
+                                    {
+                                        "id": "112452930845780025",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780027",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780029",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780031",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780033",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780035",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780037",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780039",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780041",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780043",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780045",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780047",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780049",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780051",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780053",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780055",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780057",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780059",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780061",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780063",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780065",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780067",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780069",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780071",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780073",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780075",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780077",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780079",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780081",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780083",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780085",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780087",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780089",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780091",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780093",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780095",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780097",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780099",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780101",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780103",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780105",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780107",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780109",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780111",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780113",
+                                        "state": "completed",
+                                        "previousMatchIds": [],
+                                        "flags": [
+                                            "hasVod"
+                                        ],
+                                        "teams": [
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": "win",
+                                                    "gameWins": 1
+                                                }
+                                            },
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": "loss",
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780115",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780117",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780119",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780121",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780123",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780125",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780127",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780129",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780131",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780133",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780135",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780137",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780139",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780141",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780143",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780145",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780147",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780149",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780151",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780153",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780155",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780157",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780159",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845780161",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845699",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845701",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845703",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845705",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845707",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845709",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845711",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845713",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845715",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845717",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845719",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845721",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845723",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845725",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845727",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845729",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845731",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845733",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845735",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845737",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "112452930845845739",
+                                        "state": "unstarted",
+                                        "previousMatchIds": [],
+                                        "flags": [],
+                                        "teams": [
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            },
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "result": {
+                                                    "outcome": null,
+                                                    "gameWins": 0
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "rankings": [
+                                    {
+                                        "ordinal": 1,
+                                        "teams": [
+                                            {
+                                                "id": "109480056092207899",
+                                                "slug": "fluxo",
+                                                "name": "Fluxo",
+                                                "code": "FX",
+                                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                                "record": {
+                                                    "wins": 6,
+                                                    "losses": 3
+                                                }
+                                            },
+                                            {
+                                                "id": "105397404796640412",
+                                                "slug": "loud",
+                                                "name": "LOUD",
+                                                "code": "LLL",
+                                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                                "record": {
+                                                    "wins": 7,
+                                                    "losses": 2
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408217955692",
+                                                "slug": "pain-gaming",
+                                                "name": "paiN Gaming",
+                                                "code": "PNG",
+                                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                                "record": {
+                                                    "wins": 7,
+                                                    "losses": 2
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408219409348",
+                                                "slug": "vivo-keyd",
+                                                "name": "Vivo Keyd Stars",
+                                                "code": "VKS",
+                                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                                "record": {
+                                                    "wins": 7,
+                                                    "losses": 2
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ordinal": 5,
+                                        "teams": [
+                                            {
+                                                "id": "99566408217116828",
+                                                "slug": "intz",
+                                                "name": "INTZ",
+                                                "code": "ITZ",
+                                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                                "record": {
+                                                    "wins": 5,
+                                                    "losses": 4
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ordinal": 6,
+                                        "teams": [
+                                            {
+                                                "id": "100205576309502431",
+                                                "slug": "furia",
+                                                "name": "FURIA",
+                                                "code": "FUR",
+                                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                                "record": {
+                                                    "wins": 4,
+                                                    "losses": 5
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ordinal": 7,
+                                        "teams": [
+                                            {
+                                                "id": "99566408221114231",
+                                                "slug": "kabum-esports",
+                                                "name": "KaBuM!",
+                                                "code": "KBM",
+                                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                                "record": {
+                                                    "wins": 4,
+                                                    "losses": 5
+                                                }
+                                            },
+                                            {
+                                                "id": "99566408221961358",
+                                                "slug": "red-kalunga",
+                                                "name": "RED Kalunga",
+                                                "code": "RED",
+                                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                                "record": {
+                                                    "wins": 3,
+                                                    "losses": 6
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ordinal": 9,
+                                        "teams": [
+                                            {
+                                                "id": "109480204628225868",
+                                                "slug": "los",
+                                                "name": "LOS",
+                                                "code": "LOS",
+                                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                                "record": {
+                                                    "wins": 1,
+                                                    "losses": 8
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "ordinal": 10,
+                                        "teams": [
+                                            {
+                                                "id": "99566408222831088",
+                                                "slug": "liberty",
+                                                "name": "Liberty",
+                                                "code": "LBR",
+                                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                                "record": {
+                                                    "wins": 1,
+                                                    "losses": 8
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
