@@ -1,6 +1,8 @@
 import requests
 import json
-from datetime import datetime
+import pyodbc
+import mysql.connector
+from datetime import datetime, timedelta
 
 API_KEY = '0TvQnueqKa5mxJntVWt0w4LpLfEkrV1Ta8rQBb9Z'
 API_URL_PERSISTED = 'https://esports-api.lolesports.com/persisted/gw'
@@ -8,7 +10,8 @@ API_URL_LIVE = "https://feed.lolesports.com/livestats/v1"
 cblol_id = '98767991332355509'
 cblol_split_2_2024_id = '112452930844731446'
 confronto = 0
-data_atual = datetime(2024, 6, 28).date()
+data_atual = datetime.today()
+dia_amanha = data_atual + timedelta(1)
 
 # standings = requests.get(API_URL + '/getTournamentsForLeague', headers={"x-api-key":API_KEY}, params={"hl":"pt-BR", "leagueId":cblol_id})
 
@@ -59,6 +62,28 @@ for jogo in jogos:
                     confronto = 0
                     time_venceu = ""
 
+cnc = mysql.connector.connect(user='akuma', password='03072005',
+                              host='localhost',
+                              database='db_bolaocblol')
+cursor = cnc.cursor()
+
+cursor.execute("SELECT * FROM db_bolaocblol.users")
+
+lista = list(cursor)
+
+for l in lista:
+    var_id               = l[1]
+    var_first_name       = l[2]
+    var_phone_number     = l[3]
+
+    '''
+    Codigo_Nota_Debito
+    Codigo_Cliente
+    Contrato
+    '''
+    
+    print(l)
+# 120363314368602784@g.us id grupo teste
 # https://andydanger.github.io/live-lol-esports/#/
 # https://github.com/AndyDanger/live-lol-esports/blob/main/src/utils/LoLEsportsAPI.ts
 # https://github.com/vickz84259/lolesports-api-docs/tree/master

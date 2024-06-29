@@ -1,0 +1,11 @@
+{
+    "search": {
+        "query": "!poll",
+        "options": {}
+    },
+    "retorno": {
+        "chatId": "5521996773500@c.us",
+        "contentType": "string",
+        "content": "RESPONDENDO"
+    }
+}

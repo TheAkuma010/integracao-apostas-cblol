@@ -2,10 +2,58 @@
     "data": {
         "schedule": {
             "pages": {
-                "older": "b2xkZXI6OjExMjQ1MjkzMDg0NTc4MDA3NQ==",
+                "older": "b2xkZXI6OjExMjQ1MjkzMDg0NTc4MDExMw==",
                 "newer": "bmV3ZXI6OjExMjQ1MjkzMDg0NTg0NTcwNw=="
             },
             "events": [
+                {
+                    "startTime": "2024-06-02T16:00:00Z",
+                    "state": "completed",
+                    "type": "match",
+                    "blockName": "Semana 1",
+                    "league": {
+                        "name": "CBLOL",
+                        "slug": "cblol-brazil"
+                    },
+                    "match": {
+                        "id": "112452930845780113",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "FURIA",
+                                "code": "FUR",
+                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                "result": {
+                                    "outcome": "win",
+                                    "gameWins": 1
+                                },
+                                "record": {
+                                    "wins": 4,
+                                    "losses": 5
+                                }
+                            },
+                            {
+                                "name": "LOS",
+                                "code": "LOS",
+                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                "result": {
+                                    "outcome": "loss",
+                                    "gameWins": 0
+                                },
+                                "record": {
+                                    "wins": 1,
+                                    "losses": 8
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 1
+                        }
+                    }
+                },
                 {
                     "startTime": "2024-06-02T17:00:00Z",
                     "state": "completed",
@@ -1639,16 +1687,6 @@
                     }
                 },
                 {
-                    "startTime": "2024-06-28T14:58:44.675Z",
-                    "state": "inProgress",
-                    "type": "show",
-                    "league": {
-                        "name": "CBLOL",
-                        "slug": "cblol-brazil",
-                        "image": "http://static.lolesports.com/leagues/cblol-logo-symbol-offwhite.png"
-                    }
-                },
-                {
                     "startTime": "2024-06-28T16:00:00Z",
                     "state": "completed",
                     "type": "match",
@@ -1659,7 +1697,9 @@
                     },
                     "match": {
                         "id": "112452930845780097",
-                        "flags": [],
+                        "flags": [
+                            "hasVod"
+                        ],
                         "teams": [
                             {
                                 "name": "Vivo Keyd Stars",
@@ -1705,7 +1745,9 @@
                     },
                     "match": {
                         "id": "112452930845780091",
-                        "flags": [],
+                        "flags": [
+                            "hasVod"
+                        ],
                         "teams": [
                             {
                                 "name": "Liberty",
@@ -1751,7 +1793,9 @@
                     },
                     "match": {
                         "id": "112452930845780035",
-                        "flags": [],
+                        "flags": [
+                            "hasVod"
+                        ],
                         "teams": [
                             {
                                 "name": "Fluxo",
@@ -1797,7 +1841,9 @@
                     },
                     "match": {
                         "id": "112452930845780045",
-                        "flags": [],
+                        "flags": [
+                            "hasVod"
+                        ],
                         "teams": [
                             {
                                 "name": "KaBuM!",
@@ -1843,7 +1889,9 @@
                     },
                     "match": {
                         "id": "112452930845780071",
-                        "flags": [],
+                        "flags": [
+                            "hasVod"
+                        ],
                         "teams": [
                             {
                                 "name": "FURIA",
