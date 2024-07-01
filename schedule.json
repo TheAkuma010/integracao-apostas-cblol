@@ -2,250 +2,10 @@
     "data": {
         "schedule": {
             "pages": {
-                "older": "b2xkZXI6OjExMjQ1MjkzMDg0NTc4MDExMw==",
-                "newer": "bmV3ZXI6OjExMjQ1MjkzMDg0NTg0NTcwNw=="
+                "older": "b2xkZXI6OjExMjQ1MjkzMDg0NTc4MDA2OQ==",
+                "newer": null
             },
             "events": [
-                {
-                    "startTime": "2024-06-02T16:00:00Z",
-                    "state": "completed",
-                    "type": "match",
-                    "blockName": "Semana 1",
-                    "league": {
-                        "name": "CBLOL",
-                        "slug": "cblol-brazil"
-                    },
-                    "match": {
-                        "id": "112452930845780113",
-                        "flags": [
-                            "hasVod"
-                        ],
-                        "teams": [
-                            {
-                                "name": "FURIA",
-                                "code": "FUR",
-                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
-                                "result": {
-                                    "outcome": "win",
-                                    "gameWins": 1
-                                },
-                                "record": {
-                                    "wins": 4,
-                                    "losses": 5
-                                }
-                            },
-                            {
-                                "name": "LOS",
-                                "code": "LOS",
-                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
-                                "result": {
-                                    "outcome": "loss",
-                                    "gameWins": 0
-                                },
-                                "record": {
-                                    "wins": 1,
-                                    "losses": 8
-                                }
-                            }
-                        ],
-                        "strategy": {
-                            "type": "bestOf",
-                            "count": 1
-                        }
-                    }
-                },
-                {
-                    "startTime": "2024-06-02T17:00:00Z",
-                    "state": "completed",
-                    "type": "match",
-                    "blockName": "Semana 1",
-                    "league": {
-                        "name": "CBLOL",
-                        "slug": "cblol-brazil"
-                    },
-                    "match": {
-                        "id": "112452930845780075",
-                        "flags": [
-                            "hasVod"
-                        ],
-                        "teams": [
-                            {
-                                "name": "KaBuM!",
-                                "code": "KBM",
-                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
-                                "result": {
-                                    "outcome": "loss",
-                                    "gameWins": 0
-                                },
-                                "record": {
-                                    "wins": 4,
-                                    "losses": 5
-                                }
-                            },
-                            {
-                                "name": "Vivo Keyd Stars",
-                                "code": "VKS",
-                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
-                                "result": {
-                                    "outcome": "win",
-                                    "gameWins": 1
-                                },
-                                "record": {
-                                    "wins": 7,
-                                    "losses": 2
-                                }
-                            }
-                        ],
-                        "strategy": {
-                            "type": "bestOf",
-                            "count": 1
-                        }
-                    }
-                },
-                {
-                    "startTime": "2024-06-02T18:00:00Z",
-                    "state": "completed",
-                    "type": "match",
-                    "blockName": "Semana 1",
-                    "league": {
-                        "name": "CBLOL",
-                        "slug": "cblol-brazil"
-                    },
-                    "match": {
-                        "id": "112452930845780065",
-                        "flags": [
-                            "hasVod"
-                        ],
-                        "teams": [
-                            {
-                                "name": "paiN Gaming",
-                                "code": "PNG",
-                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
-                                "result": {
-                                    "outcome": "loss",
-                                    "gameWins": 0
-                                },
-                                "record": {
-                                    "wins": 7,
-                                    "losses": 2
-                                }
-                            },
-                            {
-                                "name": "Fluxo",
-                                "code": "FX",
-                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
-                                "result": {
-                                    "outcome": "win",
-                                    "gameWins": 1
-                                },
-                                "record": {
-                                    "wins": 6,
-                                    "losses": 3
-                                }
-                            }
-                        ],
-                        "strategy": {
-                            "type": "bestOf",
-                            "count": 1
-                        }
-                    }
-                },
-                {
-                    "startTime": "2024-06-02T19:00:00Z",
-                    "state": "completed",
-                    "type": "match",
-                    "blockName": "Semana 1",
-                    "league": {
-                        "name": "CBLOL",
-                        "slug": "cblol-brazil"
-                    },
-                    "match": {
-                        "id": "112452930845780089",
-                        "flags": [
-                            "hasVod"
-                        ],
-                        "teams": [
-                            {
-                                "name": "INTZ",
-                                "code": "ITZ",
-                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
-                                "result": {
-                                    "outcome": "win",
-                                    "gameWins": 1
-                                },
-                                "record": {
-                                    "wins": 5,
-                                    "losses": 4
-                                }
-                            },
-                            {
-                                "name": "Liberty",
-                                "code": "LBR",
-                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
-                                "result": {
-                                    "outcome": "loss",
-                                    "gameWins": 0
-                                },
-                                "record": {
-                                    "wins": 1,
-                                    "losses": 8
-                                }
-                            }
-                        ],
-                        "strategy": {
-                            "type": "bestOf",
-                            "count": 1
-                        }
-                    }
-                },
-                {
-                    "startTime": "2024-06-02T20:00:00Z",
-                    "state": "completed",
-                    "type": "match",
-                    "blockName": "Semana 1",
-                    "league": {
-                        "name": "CBLOL",
-                        "slug": "cblol-brazil"
-                    },
-                    "match": {
-                        "id": "112452930845780025",
-                        "flags": [
-                            "hasVod"
-                        ],
-                        "teams": [
-                            {
-                                "name": "RED Kalunga",
-                                "code": "RED",
-                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
-                                "result": {
-                                    "outcome": "loss",
-                                    "gameWins": 0
-                                },
-                                "record": {
-                                    "wins": 3,
-                                    "losses": 6
-                                }
-                            },
-                            {
-                                "name": "LOUD",
-                                "code": "LLL",
-                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
-                                "result": {
-                                    "outcome": "win",
-                                    "gameWins": 1
-                                },
-                                "record": {
-                                    "wins": 7,
-                                    "losses": 2
-                                }
-                            }
-                        ],
-                        "strategy": {
-                            "type": "bestOf",
-                            "count": 1
-                        }
-                    }
-                },
                 {
                     "startTime": "2024-06-08T16:00:00Z",
                     "state": "completed",
@@ -271,7 +31,7 @@
                                 },
                                 "record": {
                                     "wins": 1,
-                                    "losses": 8
+                                    "losses": 10
                                 }
                             },
                             {
@@ -283,7 +43,7 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             }
@@ -319,7 +79,7 @@
                                 },
                                 "record": {
                                     "wins": 6,
-                                    "losses": 3
+                                    "losses": 5
                                 }
                             },
                             {
@@ -331,8 +91,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
-                                    "losses": 5
+                                    "wins": 5,
+                                    "losses": 6
                                 }
                             }
                         ],
@@ -366,8 +126,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 3,
-                                    "losses": 6
+                                    "wins": 4,
+                                    "losses": 7
                                 }
                             },
                             {
@@ -379,8 +139,8 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 5,
-                                    "losses": 4
+                                    "wins": 6,
+                                    "losses": 5
                                 }
                             }
                         ],
@@ -415,7 +175,7 @@
                                 },
                                 "record": {
                                     "wins": 7,
-                                    "losses": 2
+                                    "losses": 4
                                 }
                             },
                             {
@@ -427,8 +187,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 1,
-                                    "losses": 8
+                                    "wins": 2,
+                                    "losses": 9
                                 }
                             }
                         ],
@@ -462,7 +222,7 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             },
@@ -475,7 +235,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
+                                    "wins": 6,
                                     "losses": 5
                                 }
                             }
@@ -510,8 +270,8 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 5,
-                                    "losses": 4
+                                    "wins": 6,
+                                    "losses": 5
                                 }
                             },
                             {
@@ -524,7 +284,7 @@
                                 },
                                 "record": {
                                     "wins": 7,
-                                    "losses": 2
+                                    "losses": 4
                                 }
                             }
                         ],
@@ -558,7 +318,7 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 4,
+                                    "wins": 6,
                                     "losses": 5
                                 }
                             },
@@ -571,8 +331,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
-                                    "losses": 5
+                                    "wins": 5,
+                                    "losses": 6
                                 }
                             }
                         ],
@@ -606,8 +366,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 1,
-                                    "losses": 8
+                                    "wins": 2,
+                                    "losses": 9
                                 }
                             },
                             {
@@ -619,8 +379,8 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 3,
-                                    "losses": 6
+                                    "wins": 4,
+                                    "losses": 7
                                 }
                             }
                         ],
@@ -654,7 +414,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             },
@@ -667,7 +427,7 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             }
@@ -703,7 +463,7 @@
                                 },
                                 "record": {
                                     "wins": 1,
-                                    "losses": 8
+                                    "losses": 10
                                 }
                             },
                             {
@@ -716,7 +476,7 @@
                                 },
                                 "record": {
                                     "wins": 6,
-                                    "losses": 3
+                                    "losses": 5
                                 }
                             }
                         ],
@@ -750,8 +510,8 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 4,
-                                    "losses": 5
+                                    "wins": 5,
+                                    "losses": 6
                                 }
                             },
                             {
@@ -763,8 +523,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 5,
-                                    "losses": 4
+                                    "wins": 6,
+                                    "losses": 5
                                 }
                             }
                         ],
@@ -799,7 +559,7 @@
                                 },
                                 "record": {
                                     "wins": 7,
-                                    "losses": 2
+                                    "losses": 4
                                 }
                             },
                             {
@@ -812,7 +572,7 @@
                                 },
                                 "record": {
                                     "wins": 1,
-                                    "losses": 8
+                                    "losses": 10
                                 }
                             }
                         ],
@@ -846,8 +606,8 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 3,
-                                    "losses": 6
+                                    "wins": 4,
+                                    "losses": 7
                                 }
                             },
                             {
@@ -859,7 +619,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
+                                    "wins": 6,
                                     "losses": 5
                                 }
                             }
@@ -895,7 +655,7 @@
                                 },
                                 "record": {
                                     "wins": 6,
-                                    "losses": 3
+                                    "losses": 5
                                 }
                             },
                             {
@@ -907,7 +667,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             }
@@ -942,8 +702,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 1,
-                                    "losses": 8
+                                    "wins": 2,
+                                    "losses": 9
                                 }
                             },
                             {
@@ -955,7 +715,7 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             }
@@ -990,7 +750,7 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             },
@@ -1004,7 +764,7 @@
                                 },
                                 "record": {
                                     "wins": 1,
-                                    "losses": 8
+                                    "losses": 10
                                 }
                             }
                         ],
@@ -1038,7 +798,7 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             },
@@ -1051,8 +811,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 3,
-                                    "losses": 6
+                                    "wins": 4,
+                                    "losses": 7
                                 }
                             }
                         ],
@@ -1086,8 +846,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
-                                    "losses": 5
+                                    "wins": 5,
+                                    "losses": 6
                                 }
                             },
                             {
@@ -1100,7 +860,7 @@
                                 },
                                 "record": {
                                     "wins": 7,
-                                    "losses": 2
+                                    "losses": 4
                                 }
                             }
                         ],
@@ -1134,7 +894,7 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 4,
+                                    "wins": 6,
                                     "losses": 5
                                 }
                             },
@@ -1147,8 +907,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 5,
-                                    "losses": 4
+                                    "wins": 6,
+                                    "losses": 5
                                 }
                             }
                         ],
@@ -1183,7 +943,7 @@
                                 },
                                 "record": {
                                     "wins": 6,
-                                    "losses": 3
+                                    "losses": 5
                                 }
                             },
                             {
@@ -1195,8 +955,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 1,
-                                    "losses": 8
+                                    "wins": 2,
+                                    "losses": 9
                                 }
                             }
                         ],
@@ -1230,8 +990,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 1,
-                                    "losses": 8
+                                    "wins": 2,
+                                    "losses": 9
                                 }
                             },
                             {
@@ -1243,7 +1003,7 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 4,
+                                    "wins": 6,
                                     "losses": 5
                                 }
                             }
@@ -1279,7 +1039,7 @@
                                 },
                                 "record": {
                                     "wins": 1,
-                                    "losses": 8
+                                    "losses": 10
                                 }
                             },
                             {
@@ -1291,8 +1051,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 3,
-                                    "losses": 6
+                                    "wins": 4,
+                                    "losses": 7
                                 }
                             }
                         ],
@@ -1327,7 +1087,7 @@
                                 },
                                 "record": {
                                     "wins": 7,
-                                    "losses": 2
+                                    "losses": 4
                                 }
                             },
                             {
@@ -1339,7 +1099,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             }
@@ -1374,8 +1134,8 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 5,
-                                    "losses": 4
+                                    "wins": 6,
+                                    "losses": 5
                                 }
                             },
                             {
@@ -1388,7 +1148,7 @@
                                 },
                                 "record": {
                                     "wins": 6,
-                                    "losses": 3
+                                    "losses": 5
                                 }
                             }
                         ],
@@ -1422,7 +1182,7 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             },
@@ -1435,8 +1195,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
-                                    "losses": 5
+                                    "wins": 5,
+                                    "losses": 6
                                 }
                             }
                         ],
@@ -1470,8 +1230,8 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 3,
-                                    "losses": 6
+                                    "wins": 4,
+                                    "losses": 7
                                 }
                             },
                             {
@@ -1484,7 +1244,7 @@
                                 },
                                 "record": {
                                     "wins": 6,
-                                    "losses": 3
+                                    "losses": 5
                                 }
                             }
                         ],
@@ -1518,8 +1278,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 5,
-                                    "losses": 4
+                                    "wins": 6,
+                                    "losses": 5
                                 }
                             },
                             {
@@ -1531,7 +1291,7 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             }
@@ -1566,7 +1326,7 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             },
@@ -1579,8 +1339,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 1,
-                                    "losses": 8
+                                    "wins": 2,
+                                    "losses": 9
                                 }
                             }
                         ],
@@ -1615,7 +1375,7 @@
                                 },
                                 "record": {
                                     "wins": 1,
-                                    "losses": 8
+                                    "losses": 10
                                 }
                             },
                             {
@@ -1627,8 +1387,8 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 4,
-                                    "losses": 5
+                                    "wins": 5,
+                                    "losses": 6
                                 }
                             }
                         ],
@@ -1662,7 +1422,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
+                                    "wins": 6,
                                     "losses": 5
                                 }
                             },
@@ -1676,7 +1436,7 @@
                                 },
                                 "record": {
                                     "wins": 7,
-                                    "losses": 2
+                                    "losses": 4
                                 }
                             }
                         ],
@@ -1710,7 +1470,7 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             },
@@ -1723,8 +1483,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 5,
-                                    "losses": 4
+                                    "wins": 6,
+                                    "losses": 5
                                 }
                             }
                         ],
@@ -1758,8 +1518,8 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 1,
-                                    "losses": 8
+                                    "wins": 2,
+                                    "losses": 9
                                 }
                             },
                             {
@@ -1772,7 +1532,7 @@
                                 },
                                 "record": {
                                     "wins": 1,
-                                    "losses": 8
+                                    "losses": 10
                                 }
                             }
                         ],
@@ -1807,7 +1567,7 @@
                                 },
                                 "record": {
                                     "wins": 6,
-                                    "losses": 3
+                                    "losses": 5
                                 }
                             },
                             {
@@ -1820,7 +1580,7 @@
                                 },
                                 "record": {
                                     "wins": 7,
-                                    "losses": 2
+                                    "losses": 4
                                 }
                             }
                         ],
@@ -1854,8 +1614,8 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 4,
-                                    "losses": 5
+                                    "wins": 5,
+                                    "losses": 6
                                 }
                             },
                             {
@@ -1867,8 +1627,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 3,
-                                    "losses": 6
+                                    "wins": 4,
+                                    "losses": 7
                                 }
                             }
                         ],
@@ -1902,7 +1662,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
+                                    "wins": 6,
                                     "losses": 5
                                 }
                             },
@@ -1915,7 +1675,7 @@
                                     "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             }
@@ -1928,7 +1688,7 @@
                 },
                 {
                     "startTime": "2024-06-29T16:00:00Z",
-                    "state": "unstarted",
+                    "state": "completed",
                     "type": "match",
                     "blockName": "Semana 5",
                     "league": {
@@ -1937,19 +1697,21 @@
                     },
                     "match": {
                         "id": "112452930845845699",
-                        "flags": [],
+                        "flags": [
+                            "hasVod"
+                        ],
                         "teams": [
                             {
                                 "name": "KaBuM!",
                                 "code": "KBM",
                                 "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
                                 "result": {
-                                    "outcome": null,
-                                    "gameWins": 0
+                                    "outcome": "win",
+                                    "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 4,
-                                    "losses": 5
+                                    "wins": 5,
+                                    "losses": 6
                                 }
                             },
                             {
@@ -1957,12 +1719,12 @@
                                 "code": "LBR",
                                 "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
                                 "result": {
-                                    "outcome": null,
+                                    "outcome": "loss",
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 1,
-                                    "losses": 8
+                                    "wins": 2,
+                                    "losses": 9
                                 }
                             }
                         ],
@@ -1974,7 +1736,7 @@
                 },
                 {
                     "startTime": "2024-06-29T17:00:00Z",
-                    "state": "unstarted",
+                    "state": "completed",
                     "type": "match",
                     "blockName": "Semana 5",
                     "league": {
@@ -1983,19 +1745,21 @@
                     },
                     "match": {
                         "id": "112452930845845735",
-                        "flags": [],
+                        "flags": [
+                            "hasVod"
+                        ],
                         "teams": [
                             {
                                 "name": "INTZ",
                                 "code": "ITZ",
                                 "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
                                 "result": {
-                                    "outcome": null,
-                                    "gameWins": 0
+                                    "outcome": "win",
+                                    "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 5,
-                                    "losses": 4
+                                    "wins": 6,
+                                    "losses": 5
                                 }
                             },
                             {
@@ -2003,12 +1767,12 @@
                                 "code": "LOS",
                                 "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
                                 "result": {
-                                    "outcome": null,
+                                    "outcome": "loss",
                                     "gameWins": 0
                                 },
                                 "record": {
                                     "wins": 1,
-                                    "losses": 8
+                                    "losses": 10
                                 }
                             }
                         ],
@@ -2020,7 +1784,7 @@
                 },
                 {
                     "startTime": "2024-06-29T18:00:00Z",
-                    "state": "unstarted",
+                    "state": "completed",
                     "type": "match",
                     "blockName": "Semana 5",
                     "league": {
@@ -2029,19 +1793,21 @@
                     },
                     "match": {
                         "id": "112452930845780139",
-                        "flags": [],
+                        "flags": [
+                            "hasVod"
+                        ],
                         "teams": [
                             {
                                 "name": "RED Kalunga",
                                 "code": "RED",
                                 "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
                                 "result": {
-                                    "outcome": null,
+                                    "outcome": "loss",
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 3,
-                                    "losses": 6
+                                    "wins": 4,
+                                    "losses": 7
                                 }
                             },
                             {
@@ -2049,11 +1815,11 @@
                                 "code": "VKS",
                                 "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
                                 "result": {
-                                    "outcome": null,
-                                    "gameWins": 0
+                                    "outcome": "win",
+                                    "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             }
@@ -2066,7 +1832,7 @@
                 },
                 {
                     "startTime": "2024-06-29T19:00:00Z",
-                    "state": "unstarted",
+                    "state": "completed",
                     "type": "match",
                     "blockName": "Semana 5",
                     "league": {
@@ -2075,18 +1841,20 @@
                     },
                     "match": {
                         "id": "112452930845780117",
-                        "flags": [],
+                        "flags": [
+                            "hasVod"
+                        ],
                         "teams": [
                             {
                                 "name": "paiN Gaming",
                                 "code": "PNG",
                                 "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
                                 "result": {
-                                    "outcome": null,
-                                    "gameWins": 0
+                                    "outcome": "win",
+                                    "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             },
@@ -2095,12 +1863,12 @@
                                 "code": "LLL",
                                 "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
                                 "result": {
-                                    "outcome": null,
+                                    "outcome": "loss",
                                     "gameWins": 0
                                 },
                                 "record": {
                                     "wins": 7,
-                                    "losses": 2
+                                    "losses": 4
                                 }
                             }
                         ],
@@ -2112,7 +1880,7 @@
                 },
                 {
                     "startTime": "2024-06-29T20:00:00Z",
-                    "state": "unstarted",
+                    "state": "completed",
                     "type": "match",
                     "blockName": "Semana 5",
                     "league": {
@@ -2121,18 +1889,20 @@
                     },
                     "match": {
                         "id": "112452930845845733",
-                        "flags": [],
+                        "flags": [
+                            "hasVod"
+                        ],
                         "teams": [
                             {
                                 "name": "FURIA",
                                 "code": "FUR",
                                 "image": "http://static.lolesports.com/teams/FURIA---black.png",
                                 "result": {
-                                    "outcome": null,
-                                    "gameWins": 0
+                                    "outcome": "win",
+                                    "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 4,
+                                    "wins": 6,
                                     "losses": 5
                                 }
                             },
@@ -2141,12 +1911,12 @@
                                 "code": "FX",
                                 "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
                                 "result": {
-                                    "outcome": null,
+                                    "outcome": "loss",
                                     "gameWins": 0
                                 },
                                 "record": {
                                     "wins": 6,
-                                    "losses": 3
+                                    "losses": 5
                                 }
                             }
                         ],
@@ -2158,7 +1928,7 @@
                 },
                 {
                     "startTime": "2024-06-30T16:00:00Z",
-                    "state": "unstarted",
+                    "state": "completed",
                     "type": "match",
                     "blockName": "Semana 5",
                     "league": {
@@ -2167,19 +1937,21 @@
                     },
                     "match": {
                         "id": "112452930845780115",
-                        "flags": [],
+                        "flags": [
+                            "hasVod"
+                        ],
                         "teams": [
                             {
                                 "name": "LOUD",
                                 "code": "LLL",
                                 "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
                                 "result": {
-                                    "outcome": null,
+                                    "outcome": "loss",
                                     "gameWins": 0
                                 },
                                 "record": {
                                     "wins": 7,
-                                    "losses": 2
+                                    "losses": 4
                                 }
                             },
                             {
@@ -2187,12 +1959,12 @@
                                 "code": "RED",
                                 "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
                                 "result": {
-                                    "outcome": null,
-                                    "gameWins": 0
+                                    "outcome": "win",
+                                    "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 3,
-                                    "losses": 6
+                                    "wins": 4,
+                                    "losses": 7
                                 }
                             }
                         ],
@@ -2204,7 +1976,7 @@
                 },
                 {
                     "startTime": "2024-06-30T17:00:00Z",
-                    "state": "unstarted",
+                    "state": "completed",
                     "type": "match",
                     "blockName": "Semana 5",
                     "league": {
@@ -2213,19 +1985,21 @@
                     },
                     "match": {
                         "id": "112452930845780155",
-                        "flags": [],
+                        "flags": [
+                            "hasVod"
+                        ],
                         "teams": [
                             {
                                 "name": "Fluxo",
                                 "code": "FX",
                                 "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
                                 "result": {
-                                    "outcome": null,
+                                    "outcome": "loss",
                                     "gameWins": 0
                                 },
                                 "record": {
                                     "wins": 6,
-                                    "losses": 3
+                                    "losses": 5
                                 }
                             },
                             {
@@ -2233,11 +2007,11 @@
                                 "code": "PNG",
                                 "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
                                 "result": {
-                                    "outcome": null,
-                                    "gameWins": 0
+                                    "outcome": "win",
+                                    "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             }
@@ -2250,7 +2024,7 @@
                 },
                 {
                     "startTime": "2024-06-30T18:00:00Z",
-                    "state": "unstarted",
+                    "state": "completed",
                     "type": "match",
                     "blockName": "Semana 5",
                     "league": {
@@ -2259,19 +2033,21 @@
                     },
                     "match": {
                         "id": "112452930845845739",
-                        "flags": [],
+                        "flags": [
+                            "hasVod"
+                        ],
                         "teams": [
                             {
                                 "name": "LOS",
                                 "code": "LOS",
                                 "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
                                 "result": {
-                                    "outcome": null,
+                                    "outcome": "loss",
                                     "gameWins": 0
                                 },
                                 "record": {
                                     "wins": 1,
-                                    "losses": 8
+                                    "losses": 10
                                 }
                             },
                             {
@@ -2279,11 +2055,11 @@
                                 "code": "FUR",
                                 "image": "http://static.lolesports.com/teams/FURIA---black.png",
                                 "result": {
-                                    "outcome": null,
-                                    "gameWins": 0
+                                    "outcome": "win",
+                                    "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 4,
+                                    "wins": 6,
                                     "losses": 5
                                 }
                             }
@@ -2296,7 +2072,7 @@
                 },
                 {
                     "startTime": "2024-06-30T19:00:00Z",
-                    "state": "unstarted",
+                    "state": "completed",
                     "type": "match",
                     "blockName": "Semana 5",
                     "league": {
@@ -2305,18 +2081,20 @@
                     },
                     "match": {
                         "id": "112452930845845701",
-                        "flags": [],
+                        "flags": [
+                            "hasVod"
+                        ],
                         "teams": [
                             {
                                 "name": "Vivo Keyd Stars",
                                 "code": "VKS",
                                 "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
                                 "result": {
-                                    "outcome": null,
-                                    "gameWins": 0
+                                    "outcome": "win",
+                                    "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             },
@@ -2325,12 +2103,12 @@
                                 "code": "KBM",
                                 "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
                                 "result": {
-                                    "outcome": null,
+                                    "outcome": "loss",
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
-                                    "losses": 5
+                                    "wins": 5,
+                                    "losses": 6
                                 }
                             }
                         ],
@@ -2342,7 +2120,7 @@
                 },
                 {
                     "startTime": "2024-06-30T20:00:00Z",
-                    "state": "unstarted",
+                    "state": "completed",
                     "type": "match",
                     "blockName": "Semana 5",
                     "league": {
@@ -2351,19 +2129,21 @@
                     },
                     "match": {
                         "id": "112452930845845715",
-                        "flags": [],
+                        "flags": [
+                            "hasVod"
+                        ],
                         "teams": [
                             {
                                 "name": "Liberty",
                                 "code": "LBR",
                                 "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
                                 "result": {
-                                    "outcome": null,
-                                    "gameWins": 0
+                                    "outcome": "win",
+                                    "gameWins": 1
                                 },
                                 "record": {
-                                    "wins": 1,
-                                    "losses": 8
+                                    "wins": 2,
+                                    "losses": 9
                                 }
                             },
                             {
@@ -2371,12 +2151,12 @@
                                 "code": "ITZ",
                                 "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
                                 "result": {
-                                    "outcome": null,
+                                    "outcome": "loss",
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 5,
-                                    "losses": 4
+                                    "wins": 6,
+                                    "losses": 5
                                 }
                             }
                         ],
@@ -2408,7 +2188,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             },
@@ -2422,7 +2202,7 @@
                                 },
                                 "record": {
                                     "wins": 1,
-                                    "losses": 8
+                                    "losses": 10
                                 }
                             }
                         ],
@@ -2454,7 +2234,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
+                                    "wins": 6,
                                     "losses": 5
                                 }
                             },
@@ -2467,7 +2247,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             }
@@ -2500,8 +2280,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
-                                    "losses": 5
+                                    "wins": 5,
+                                    "losses": 6
                                 }
                             },
                             {
@@ -2514,7 +2294,7 @@
                                 },
                                 "record": {
                                     "wins": 6,
-                                    "losses": 3
+                                    "losses": 5
                                 }
                             }
                         ],
@@ -2546,8 +2326,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 1,
-                                    "losses": 8
+                                    "wins": 2,
+                                    "losses": 9
                                 }
                             },
                             {
@@ -2560,7 +2340,7 @@
                                 },
                                 "record": {
                                     "wins": 7,
-                                    "losses": 2
+                                    "losses": 4
                                 }
                             }
                         ],
@@ -2592,8 +2372,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 5,
-                                    "losses": 4
+                                    "wins": 6,
+                                    "losses": 5
                                 }
                             },
                             {
@@ -2605,8 +2385,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 3,
-                                    "losses": 6
+                                    "wins": 4,
+                                    "losses": 7
                                 }
                             }
                         ],
@@ -2638,8 +2418,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
-                                    "losses": 5
+                                    "wins": 5,
+                                    "losses": 6
                                 }
                             },
                             {
@@ -2651,7 +2431,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
+                                    "wins": 6,
                                     "losses": 5
                                 }
                             }
@@ -2684,8 +2464,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 3,
-                                    "losses": 6
+                                    "wins": 4,
+                                    "losses": 7
                                 }
                             },
                             {
@@ -2697,8 +2477,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 1,
-                                    "losses": 8
+                                    "wins": 2,
+                                    "losses": 9
                                 }
                             }
                         ],
@@ -2730,7 +2510,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             },
@@ -2743,7 +2523,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             }
@@ -2777,7 +2557,7 @@
                                 },
                                 "record": {
                                     "wins": 6,
-                                    "losses": 3
+                                    "losses": 5
                                 }
                             },
                             {
@@ -2790,7 +2570,7 @@
                                 },
                                 "record": {
                                     "wins": 1,
-                                    "losses": 8
+                                    "losses": 10
                                 }
                             }
                         ],
@@ -2823,7 +2603,7 @@
                                 },
                                 "record": {
                                     "wins": 7,
-                                    "losses": 2
+                                    "losses": 4
                                 }
                             },
                             {
@@ -2835,8 +2615,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 5,
-                                    "losses": 4
+                                    "wins": 6,
+                                    "losses": 5
                                 }
                             }
                         ],
@@ -2868,7 +2648,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             },
@@ -2882,7 +2662,7 @@
                                 },
                                 "record": {
                                     "wins": 6,
-                                    "losses": 3
+                                    "losses": 5
                                 }
                             }
                         ],
@@ -2914,7 +2694,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             },
@@ -2927,8 +2707,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 1,
-                                    "losses": 8
+                                    "wins": 2,
+                                    "losses": 9
                                 }
                             }
                         ],
@@ -2960,8 +2740,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 5,
-                                    "losses": 4
+                                    "wins": 6,
+                                    "losses": 5
                                 }
                             },
                             {
@@ -2973,8 +2753,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
-                                    "losses": 5
+                                    "wins": 5,
+                                    "losses": 6
                                 }
                             }
                         ],
@@ -3006,7 +2786,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
+                                    "wins": 6,
                                     "losses": 5
                                 }
                             },
@@ -3019,8 +2799,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 3,
-                                    "losses": 6
+                                    "wins": 4,
+                                    "losses": 7
                                 }
                             }
                         ],
@@ -3053,7 +2833,7 @@
                                 },
                                 "record": {
                                     "wins": 1,
-                                    "losses": 8
+                                    "losses": 10
                                 }
                             },
                             {
@@ -3066,7 +2846,7 @@
                                 },
                                 "record": {
                                     "wins": 7,
-                                    "losses": 2
+                                    "losses": 4
                                 }
                             }
                         ],
@@ -3098,8 +2878,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 3,
-                                    "losses": 6
+                                    "wins": 4,
+                                    "losses": 7
                                 }
                             },
                             {
@@ -3111,7 +2891,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             }
@@ -3145,7 +2925,7 @@
                                 },
                                 "record": {
                                     "wins": 7,
-                                    "losses": 2
+                                    "losses": 4
                                 }
                             },
                             {
@@ -3157,8 +2937,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
-                                    "losses": 5
+                                    "wins": 5,
+                                    "losses": 6
                                 }
                             }
                         ],
@@ -3190,8 +2970,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 1,
-                                    "losses": 8
+                                    "wins": 2,
+                                    "losses": 9
                                 }
                             },
                             {
@@ -3204,7 +2984,7 @@
                                 },
                                 "record": {
                                     "wins": 6,
-                                    "losses": 3
+                                    "losses": 5
                                 }
                             }
                         ],
@@ -3236,8 +3016,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 5,
-                                    "losses": 4
+                                    "wins": 6,
+                                    "losses": 5
                                 }
                             },
                             {
@@ -3249,7 +3029,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
+                                    "wins": 6,
                                     "losses": 5
                                 }
                             }
@@ -3283,7 +3063,7 @@
                                 },
                                 "record": {
                                     "wins": 1,
-                                    "losses": 8
+                                    "losses": 10
                                 }
                             },
                             {
@@ -3295,7 +3075,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             }
@@ -3329,7 +3109,7 @@
                                 },
                                 "record": {
                                     "wins": 6,
-                                    "losses": 3
+                                    "losses": 5
                                 }
                             },
                             {
@@ -3341,8 +3121,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 5,
-                                    "losses": 4
+                                    "wins": 6,
+                                    "losses": 5
                                 }
                             }
                         ],
@@ -3374,7 +3154,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             },
@@ -3388,7 +3168,7 @@
                                 },
                                 "record": {
                                     "wins": 7,
-                                    "losses": 2
+                                    "losses": 4
                                 }
                             }
                         ],
@@ -3420,7 +3200,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
+                                    "wins": 6,
                                     "losses": 5
                                 }
                             },
@@ -3433,8 +3213,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 1,
-                                    "losses": 8
+                                    "wins": 2,
+                                    "losses": 9
                                 }
                             }
                         ],
@@ -3466,8 +3246,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 3,
-                                    "losses": 6
+                                    "wins": 4,
+                                    "losses": 7
                                 }
                             },
                             {
@@ -3480,7 +3260,7 @@
                                 },
                                 "record": {
                                     "wins": 1,
-                                    "losses": 8
+                                    "losses": 10
                                 }
                             }
                         ],
@@ -3512,8 +3292,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
-                                    "losses": 5
+                                    "wins": 5,
+                                    "losses": 6
                                 }
                             },
                             {
@@ -3525,7 +3305,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             }
@@ -3558,8 +3338,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 1,
-                                    "losses": 8
+                                    "wins": 2,
+                                    "losses": 9
                                 }
                             },
                             {
@@ -3571,7 +3351,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             }
@@ -3605,7 +3385,7 @@
                                 },
                                 "record": {
                                     "wins": 7,
-                                    "losses": 2
+                                    "losses": 4
                                 }
                             },
                             {
@@ -3617,7 +3397,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
+                                    "wins": 6,
                                     "losses": 5
                                 }
                             }
@@ -3650,7 +3430,7 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 7,
+                                    "wins": 9,
                                     "losses": 2
                                 }
                             },
@@ -3663,8 +3443,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 5,
-                                    "losses": 4
+                                    "wins": 6,
+                                    "losses": 5
                                 }
                             }
                         ],
@@ -3697,7 +3477,7 @@
                                 },
                                 "record": {
                                     "wins": 6,
-                                    "losses": 3
+                                    "losses": 5
                                 }
                             },
                             {
@@ -3709,8 +3489,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 3,
-                                    "losses": 6
+                                    "wins": 4,
+                                    "losses": 7
                                 }
                             }
                         ],
@@ -3742,8 +3522,8 @@
                                     "gameWins": 0
                                 },
                                 "record": {
-                                    "wins": 4,
-                                    "losses": 5
+                                    "wins": 5,
+                                    "losses": 6
                                 }
                             },
                             {
@@ -3756,7 +3536,237 @@
                                 },
                                 "record": {
                                     "wins": 1,
-                                    "losses": 8
+                                    "losses": 10
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 1
+                        }
+                    }
+                },
+                {
+                    "startTime": "2024-07-28T16:00:00Z",
+                    "state": "unstarted",
+                    "type": "match",
+                    "blockName": "Semana 8",
+                    "league": {
+                        "name": "CBLOL",
+                        "slug": "cblol-brazil"
+                    },
+                    "match": {
+                        "id": "112452930845780125",
+                        "flags": [],
+                        "teams": [
+                            {
+                                "name": "LOUD",
+                                "code": "LLL",
+                                "image": "http://static.lolesports.com/teams/Logo-LOUD-Esports_Original.png",
+                                "result": {
+                                    "outcome": null,
+                                    "gameWins": 0
+                                },
+                                "record": {
+                                    "wins": 7,
+                                    "losses": 4
+                                }
+                            },
+                            {
+                                "name": "Fluxo",
+                                "code": "FX",
+                                "image": "http://static.lolesports.com/teams/1670539056915_fluxo_escudo_w.png",
+                                "result": {
+                                    "outcome": null,
+                                    "gameWins": 0
+                                },
+                                "record": {
+                                    "wins": 6,
+                                    "losses": 5
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 1
+                        }
+                    }
+                },
+                {
+                    "startTime": "2024-07-28T17:00:00Z",
+                    "state": "unstarted",
+                    "type": "match",
+                    "blockName": "Semana 8",
+                    "league": {
+                        "name": "CBLOL",
+                        "slug": "cblol-brazil"
+                    },
+                    "match": {
+                        "id": "112452930845780161",
+                        "flags": [],
+                        "teams": [
+                            {
+                                "name": "paiN Gaming",
+                                "code": "PNG",
+                                "image": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png",
+                                "result": {
+                                    "outcome": null,
+                                    "gameWins": 0
+                                },
+                                "record": {
+                                    "wins": 9,
+                                    "losses": 2
+                                }
+                            },
+                            {
+                                "name": "FURIA",
+                                "code": "FUR",
+                                "image": "http://static.lolesports.com/teams/FURIA---black.png",
+                                "result": {
+                                    "outcome": null,
+                                    "gameWins": 0
+                                },
+                                "record": {
+                                    "wins": 6,
+                                    "losses": 5
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 1
+                        }
+                    }
+                },
+                {
+                    "startTime": "2024-07-28T18:00:00Z",
+                    "state": "unstarted",
+                    "type": "match",
+                    "blockName": "Semana 8",
+                    "league": {
+                        "name": "CBLOL",
+                        "slug": "cblol-brazil"
+                    },
+                    "match": {
+                        "id": "112452930845845723",
+                        "flags": [],
+                        "teams": [
+                            {
+                                "name": "INTZ",
+                                "code": "ITZ",
+                                "image": "http://static.lolesports.com/teams/1643056732785_INTZ_Logo_Principal_2022.png",
+                                "result": {
+                                    "outcome": null,
+                                    "gameWins": 0
+                                },
+                                "record": {
+                                    "wins": 6,
+                                    "losses": 5
+                                }
+                            },
+                            {
+                                "name": "Vivo Keyd Stars",
+                                "code": "VKS",
+                                "image": "http://static.lolesports.com/teams/1670542079678_vks.png",
+                                "result": {
+                                    "outcome": null,
+                                    "gameWins": 0
+                                },
+                                "record": {
+                                    "wins": 9,
+                                    "losses": 2
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 1
+                        }
+                    }
+                },
+                {
+                    "startTime": "2024-07-28T19:00:00Z",
+                    "state": "unstarted",
+                    "type": "match",
+                    "blockName": "Semana 8",
+                    "league": {
+                        "name": "CBLOL",
+                        "slug": "cblol-brazil"
+                    },
+                    "match": {
+                        "id": "112452930845845717",
+                        "flags": [],
+                        "teams": [
+                            {
+                                "name": "LOS",
+                                "code": "LOS",
+                                "image": "http://static.lolesports.com/teams/1686087430642_logo_los_white_newest.png",
+                                "result": {
+                                    "outcome": null,
+                                    "gameWins": 0
+                                },
+                                "record": {
+                                    "wins": 1,
+                                    "losses": 10
+                                }
+                            },
+                            {
+                                "name": "Liberty",
+                                "code": "LBR",
+                                "image": "http://static.lolesports.com/teams/1643305707691_RXfNcFMU.png",
+                                "result": {
+                                    "outcome": null,
+                                    "gameWins": 0
+                                },
+                                "record": {
+                                    "wins": 2,
+                                    "losses": 9
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 1
+                        }
+                    }
+                },
+                {
+                    "startTime": "2024-07-28T20:00:00Z",
+                    "state": "unstarted",
+                    "type": "match",
+                    "blockName": "Semana 8",
+                    "league": {
+                        "name": "CBLOL",
+                        "slug": "cblol-brazil"
+                    },
+                    "match": {
+                        "id": "112452930845780135",
+                        "flags": [],
+                        "teams": [
+                            {
+                                "name": "RED Kalunga",
+                                "code": "RED",
+                                "image": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png",
+                                "result": {
+                                    "outcome": null,
+                                    "gameWins": 0
+                                },
+                                "record": {
+                                    "wins": 4,
+                                    "losses": 7
+                                }
+                            },
+                            {
+                                "name": "KaBuM!",
+                                "code": "KBM",
+                                "image": "http://static.lolesports.com/teams/1671197541491_LOGO-KABUM-ESPORTS-2023-NEGATIVO-FUNDOPRETO.png",
+                                "result": {
+                                    "outcome": null,
+                                    "gameWins": 0
+                                },
+                                "record": {
+                                    "wins": 5,
+                                    "losses": 6
                                 }
                             }
                         ],

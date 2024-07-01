@@ -1,6 +1,5 @@
 import requests
 import json
-import pyodbc
 import mysql.connector
 from datetime import datetime, timedelta
 

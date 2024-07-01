@@ -1,0 +1,14 @@
+{
+    "chatId": "6281288888888@c.us",
+    "contentType": "Poll",
+    "content": {
+        "pollName": "Cats or Dogs?",
+        "pollOptions": [
+            "Cats",
+            "Dogs"
+        ],
+        "options": {
+            "allowMultipleAnswers": true
+        }
+    }
+}

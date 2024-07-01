@@ -1,73 +1,87 @@
 import requests
 import json
-import pyodbc
 import mysql.connector
-from datetime import datetime, timedelta
 
-API_KEY = '0TvQnueqKa5mxJntVWt0w4LpLfEkrV1Ta8rQBb9Z'
-API_URL_PERSISTED = 'https://esports-api.lolesports.com/persisted/gw'
-API_URL_LIVE = "https://feed.lolesports.com/livestats/v1"
-cblol_id = '98767991332355509'
-cblol_split_2_2024_id = '112452930844731446'
-confronto = 0
-data_atual = datetime.today()
-dia_amanha_str = data_atual + timedelta(1)
-dia_amanha = dia_amanha_str.date()
+API_KEY = 'akumabot'
+session_id = 'akumabot'
+WPP_API_URL = 'http://localhost:3000'
 
-schedule = requests.get(API_URL_PERSISTED + '/getSchedule', headers={"x-api-key":API_KEY}, params={"hl":"pt-BR", "leagueId":cblol_id})
-
-scheduleJSON = schedule.json()
-scheduleFINALJSON = json.dumps(scheduleJSON, indent=4)
-
-with open("schedule.json", "w") as outfile:
-    outfile.write(scheduleFINALJSON)
-
-with open('schedule.json', 'r') as file:
-    data = json.load(file)
-
-# Navegar pela estrutura aninhada
-jogos = data.get("data", {}).get("schedule", {}).get("events", [])
-
-# Filtrar e retornar valores de startTime
-for jogo in jogos:
-    start_time_str = jogo.get("startTime")
-
-    if start_time_str:
-        start_time = datetime.fromisoformat(start_time_str.rstrip('Z')).date()
-        if start_time == dia_amanha:
-            times_de_hoje = jogo.get("match", {}).get("teams", [])
-
-            for times in times_de_hoje:
-                time = times.get("code")
-                print(time)
-                confronto = confronto + 1
-
-                if confronto == 1:        
-                    connect = mysql.connector.connect(user='root', password='',
+connect = mysql.connector.connect(user='root', password='',
                                                 host='localhost',
                                                 database='db_bolaocblol')
-                    cursor = connect.cursor()
 
-                    cursor.execute("INSERT INTO confrontos (time1) VALUES {time};")
-                if confronto == 2:
-                    cursor.execute("INSERT INTO confrontos (time2) VALUES {time};")
-                    print("")
-                    confronto = 0
-                    
+cursor = connect.cursor()
+cursor.execute("SELECT * FROM confrontos WHERE confrontos.EXEC = 'NAO'")
+
 lista = list(cursor)
 
 for l in lista:
-    var_id               = l[1]
-    var_time1            = l[2]
-    var_time2            = l[3]
+    var_id               = l[0]
+    var_time1            = l[1]
+    var_time2            = l[2]
 
     '''
     id
     time1
     time2
     '''
+
+    criarPoll = {
+    "chatId": "120363314368602784@g.us",
+    "contentType": "Poll",
+    "content": {
+      "pollName": f"{var_time1} vs {var_time2}",
+      "pollOptions": [
+        f"{var_time1}", 
+        f"{var_time2}"
+      ],
+      "options": {
+        "allowMultipleAnswers": False
+      }
+    }
+    }
+    mensagem = {
+        "chatId": "120363314368602784@g.us",
+        "contentType": "Poll",
+        "content": {
+            "pollName": "TESTE?",
+            "pollOptions": [
+                "Cats",
+                "Dogs"
+            ],
+            "options": {
+                "allowMultipleAnswers": True
+            }
+        }
+    }
     
-    print(l)
+#     mensagem = {
+#   "chatId": "5521996773500@c.us",
+#   "contentType": "string",
+#   "content": f"{var_time1} vs {var_time2}"
+#     }
+
+
+    
+    
+    # with open("criarPoll.json", 'w') as file:
+    #     json.dump(mensagem, file, indent=4)
+        
+    with open('criarPoll.json', 'r') as jsonread:
+        poll = json.load(jsonread)
+    
+    print(poll)
+    print(var_time1 + " vs " + var_time2)
+    enviarPoll = requests.post(WPP_API_URL + '/client/sendMessage/' + session_id, headers={"x-api-key":API_KEY}, data=(poll))
+    
+    if enviarPoll.status_code == 200:
+        print("Poll sent successfully.")
+    else:
+        print(f"Failed to send poll. Status code: {enviarPoll.status_code}, Error: {enviarPoll.text}")
+        
+    # with open("criarPoll.json", 'w') as outfile:
+    #     pass
+    
 # 120363314368602784@g.us id grupo teste
 # https://andydanger.github.io/live-lol-esports/#/
 # https://github.com/AndyDanger/live-lol-esports/blob/main/src/utils/LoLEsportsAPI.ts
