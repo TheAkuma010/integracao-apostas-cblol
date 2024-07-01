@@ -40,47 +40,24 @@ for l in lista:
       }
     }
     }
-    mensagem = {
-        "chatId": "120363314368602784@g.us",
-        "contentType": "Poll",
-        "content": {
-            "pollName": "TESTE?",
-            "pollOptions": [
-                "Cats",
-                "Dogs"
-            ],
-            "options": {
-                "allowMultipleAnswers": True
-            }
-        }
-    }
     
-#     mensagem = {
-#   "chatId": "5521996773500@c.us",
-#   "contentType": "string",
-#   "content": f"{var_time1} vs {var_time2}"
-#     }
-
-
-    
-    
-    # with open("criarPoll.json", 'w') as file:
-    #     json.dump(mensagem, file, indent=4)
+    with open("criarPoll.json", 'w') as file:
+        json.dump(criarPoll, file, indent=4)
         
     with open('criarPoll.json', 'r') as jsonread:
         poll = json.load(jsonread)
     
     print(poll)
     print(var_time1 + " vs " + var_time2)
-    enviarPoll = requests.post(WPP_API_URL + '/client/sendMessage/' + session_id, headers={"x-api-key":API_KEY}, data=(poll))
+    enviarPoll = requests.post(WPP_API_URL + '/client/sendMessage/' + session_id, headers={"x-api-key":API_KEY}, json=(poll))
     
     if enviarPoll.status_code == 200:
         print("Poll sent successfully.")
     else:
         print(f"Failed to send poll. Status code: {enviarPoll.status_code}, Error: {enviarPoll.text}")
-        
-    # with open("criarPoll.json", 'w') as outfile:
-    #     pass
+
+    with open("criarPoll.json", 'w') as outfile:
+        pass
     
 # 120363314368602784@g.us id grupo teste
 # https://andydanger.github.io/live-lol-esports/#/
