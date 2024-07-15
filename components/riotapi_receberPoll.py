@@ -51,10 +51,10 @@ with open('teste.json', 'r') as jsonread:
 #     print(var_time1 + " vs " + var_time2)
 # enviarPoll = requests.post(WPP_API_URL + '/groupChat/getReactions/' + session_id, headers={"x-api-key":API_KEY})
 
-enviarPoll = requests.post(WPP_API_URL + '/localCallbackExample', headers={"x-api-key":API_KEY})
+enviarPoll = requests.post(WPP_API_URL + '/chat/fetchMessages/' + session_id, headers={"x-api-key":API_KEY}, json=(teste))
     
 enviarPollJSON = enviarPoll.json()
-print(enviarPoll)
+print(enviarPollJSON)
 if enviarPoll.status_code == 200:
     print("Poll sent successfully.")
 else:
